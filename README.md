@@ -11,8 +11,6 @@ Implementações de estruturas de dados clássicas, feitas durante meus estudos 
 | `java/binary-search-tree` | Árvore binária de busca | Inserção recursiva; percursos pré-ordem, em ordem, pós-ordem e em largura; `MirrorBST` estende `BST` e espelha a árvore recursivamente |
 | `java/stack-and-queue` | Pilha e fila encadeadas | Implementadas com nós próprios, sem usar coleções do Java; tratamento de pilha ou fila vazia com `IllegalStateException` |
 
-Implementações em C (listas encadeadas simples, dupla e ordenada, pilha e fila) serão adicionadas em breve.
-
 ## Como executar
 
 Requer o JDK 17 ou mais recente.
